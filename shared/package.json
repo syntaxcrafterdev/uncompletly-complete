@@ -1,0 +1,22 @@
+{
+  "name": "@synap-events/shared",
+  "version": "0.1.0",
+  "description": "Shared types and utilities for SynapEvents platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["synap-events", "hackathon", "event-management"],
+  "author": "SynapEvents Team",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
