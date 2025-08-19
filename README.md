@@ -6,6 +6,12 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.7%2B-blue.svg)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/React-18.x-61DAFB.svg)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-16.x-339933.svg)](https://nodejs.org/)
+
+  ⚠️ **NOTICE**
+> 
+> This project has been stopped due to significant architectural limitations that prevent it from meeting modern web application standards. The current implementation has critical security vulnerabilities, performance bottlenecks, and maintainability issues that make further development impractical. A complete rewrite would be required to address these fundamental concerns.
+> 
+> ---
   
   <p>✨ A modern, full-stack event management solution for hosting, managing, and attending events with ease.</p>
 </div>
